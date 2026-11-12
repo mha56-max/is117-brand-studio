@@ -1295,28 +1295,3 @@ legend {
     animation: none !important;
   }
 }
-
-/* Clean Cut identity, shared by the storefront and style guide */
-:root {
-  --cc-ink: #111111;
-  --cc-paper: #ffffff;
-  --cc-muted: #444444;
-}
-body {
-  font-family: Helvetica, Arial, sans-serif;
-  background: var(--cc-paper);
-  color: var(--cc-ink);
-}
-h1,
-h2 {
-  font-weight: 500;
-  letter-spacing: -0.5px;
-}
-.button,
-.size-option span {
-  border-radius: 0;
-}
-.button-primary {
-  background: var(--cc-ink);
-  color: var(--cc-paper);
-}

@@ -1,12 +1,6 @@
-
-
 \# Conversation evidence
 
-
-
 AI-drafted task evidence, not a transcript or grade. Student contributions are labeled paraphrases. AI assistance is disclosed. Review before commit/push.
-
-
 
 \- \*\*Feature:\*\* BRAND-001 — Clean Cut storefront and style guide
 
@@ -16,11 +10,7 @@ AI-drafted task evidence, not a transcript or grade. Student contributions are l
 
 \- \*\*Review status:\*\* Reconstructed from available conversation and project evidence
 
-
-
 \## Student contributions
-
-
 
 | Checkpoint | Student contribution (labeled paraphrase) |
 
@@ -34,11 +24,7 @@ AI-drafted task evidence, not a transcript or grade. Student contributions are l
 
 | Browser observation and keep/revise decision | Recorded checking mouse and keyboard interactions and the narrow-window layout. Identified leftover starter-template styling for review. |
 
-
-
 \## AI work and evidence links
-
-
 
 \- \*\*Work performed by AI:\*\* Helped brainstorm audience hypotheses, brand name, promise, voice, and visual direction; helped write and edit project files and guided testing.
 
@@ -49,6 +35,3 @@ AI-drafted task evidence, not a transcript or grade. Student contributions are l
 \- \*\*SPEC, issue/PR, actual checks and artifacts:\*\* BRAND-001 project files; browser test result recorded as 10 passing tests.
 
 \- \*\*Next step:\*\* Review the final storefront and submit the pull request.
-
-
-
