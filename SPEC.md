@@ -89,3 +89,42 @@ Write a short result and link only evidence that exists. A passing browser check
 ## Later
 
 No follow-up is selected. After keeping `BRAND-001`, choose one next cycle: perhaps a brand story, a supported fit guide, or richer demo-bag behavior. Agree its scope and add one new spec ID at that time.
+
+## My decisions (Michelle Ayala)
+
+- Primary audience: A college student who wants one good basic white tee that looks clean and holds its shape.
+- Secondary audience (to check the page): A gift buyer unsure of size who wants reassurance before buying.
+- Brand name: Clean Cut
+- Promise: A plain white tee, made simple to choose.
+- Archetype: Sage. It fits because the brand should feel grounded, so a student can trust a plain white tee without hype.
+- Voice: Calm, clear, honest.
+- Audience cards are hypotheses, not research.
+- Help received: Claude suggested the audiences, name, promise, and voice traits. The archetype choice and the "grounded" reason are mine.
+
+## Hero direction
+
+- Chosen: Preview A, modernist.
+- References: Swiss/International Typographic Style (Josef Muller-Brockmann) and the Bauhaus idea that form follows function. The postmodernist option I compared it with was inspired by the Memphis Group (Ettore Sotsass, 1981).
+- Why: I chose Preview A because its calm, uncluttered layout feels comfortable to look at, like a hug for a busy student, so she can choose a size without feeling overwhelmed.
+- Help received: Claude explained both styles, drew the two previews, and wrote this sentence from my words. The choice of A and the "comfy like a hug" idea are mine.
+
+## Logo
+
+- Chosen: boxed CC monogram next to the Clean Cut wordmark, one color, saved as public/logo.svg.
+- Why: The plain box and two letters feel calm and tidy like the Sage voice, and the box alone still works at small size.
+- Help received: Claude drew three options and wrote the file and this sentence. I picked option 3 and approved the wording.
+
+## Persuasion (two truthful applications of Cialdini)
+
+- Commitment and consistency: the shopper chooses a size first, then adds it to the bag, so one small step leads to the next. No false claims.
+- Liking: a calm, honest, friendly voice (Choose your size. Add it to the bag.) so a busy student feels at ease. No invented reviews, scarcity, or product facts.
+- Help received: Claude suggested both principles. I approved them.
+
+## My browser checks (Nov 12)
+
+- Mouse: I chose M and clicked Add to demo bag, and the Demo bag count went up.
+- Keyboard: I tabbed to the size buttons and the add button, saw an outline on each one, and Enter added the shirt.
+- Narrow window: the page stayed readable, the buttons still worked, and it did not scroll sideways.
+- Something I noticed: the lime-green banner and the lime "Who this is for" block are leftovers from the starter. They do not match the calm black-and-white look I chose, so I want to change them.
+- Prepared checks: npm run test:e2e passed all 10 tests, including adding a size to the bag, the keyboard test, and the narrow-screen tests.
+- Help received: Claude wrote the page edits and walked me through these checks. I ran them and reported what I saw.
